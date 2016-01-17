@@ -1,0 +1,17 @@
+.brand-img {
+  max-width: 25px;
+}
+
+.navbar {
+  /*background-color: red;*/
+  border-radius: 0px;
+  border: 0px;
+}
+
+.first-item {
+  margin-top: 55px;
+}
+
+.green-color {
+  color: green;
+}
